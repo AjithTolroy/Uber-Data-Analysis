@@ -1,5 +1,5 @@
 # UBER-DATA
-This data set includes the aggregated mean and range for all Uber rides starting from the the San Francisco Caltrain Station, serves dozens of stations between San Francisco and the South Bay.
+This data set includes the aggregated mean and range for all Uber rides starting from the San Francisco Caltrain Station, serves dozens of stations between San Francisco and the South Bay.
 
 The CSV file contains data for all rides between October 2017 and December 2017, inclusive.
 
